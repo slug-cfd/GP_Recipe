@@ -13,7 +13,7 @@ Convergence plot pt to pt. Different r_gp...
 '''
 
 import sys
-sys.path.append('../../')
+sys.path.append('../src/')
 import sympy as sym
 from driver import GP_driver_data
 from new_driver import GP_recipe1D, GP_recipe2D

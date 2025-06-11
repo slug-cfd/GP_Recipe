@@ -3,7 +3,7 @@ Compund waves.
 '''
 
 import sys
-sys.path.append('../../')
+sys.path.append('../src/')
 
 import sympy as sym
 from driver import GP_driver_data

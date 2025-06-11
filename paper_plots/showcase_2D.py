@@ -3,7 +3,7 @@ Showcase 2D.
 Take laplacian in 2D.
 '''
 import sys
-sys.path.append('../../')
+sys.path.append('../src/')
 import sympy as sym
 from driver import GP_driver_data
 from new_driver import GP_recipe1D, GP_recipe2D
